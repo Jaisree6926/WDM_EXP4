@@ -15,7 +15,6 @@
 
 ### Program:
 ```python
-```python
 import pandas as pd
 df= pd.read_csv('/content/drive/MyDrive/Web Data MIning/clustervisitor.csv')
 print(df)
